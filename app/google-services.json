@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "709452774333",
+    "project_id": "lecture-02-realtime-db",
+    "storage_bucket": "lecture-02-realtime-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709452774333:android:2d792c70aaa2b5b867f0d4",
+        "android_client_info": {
+          "package_name": "com.example.lecture02realtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709452774333-u73o0s3fbt31rg3lv96e36q5kf139hqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKoZPmgad3uvJ5yoB4NavOF7LDa7l36pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709452774333-u73o0s3fbt31rg3lv96e36q5kf139hqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
